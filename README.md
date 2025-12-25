@@ -1,16 +1,76 @@
-###🛒 Shopify | Sales & Customer Funnel Analysis
+# 🛍️ Shopify Sales & Customer Funnel Dashboard
 
-A data visualization project providing deep insights into sales performance, customer behavior, and regional market dynamics for an e-commerce operation using the Shopify platform.
+An interactive **Power BI dashboard** designed to analyze **Shopify sales performance, customer behavior, retention metrics, and regional insights**.  
+This project helps businesses understand revenue trends, customer funnel performance, and payment/product-level contributions to sales.
 
-##✨ Project Overview
-This repository contains the analysis, data processing steps, and the final interactive report for a detailed look into Shopify sales and customer transactions. The primary objective is to monitor key performance indicators (KPIs), track trends over time, and identify high-value customer segments and top-performing regional markets.The report serves as a central hub for understanding the complete sales and customer lifecycle, from total revenue to specific product type performance.
+---
 
-##🔍 Key InsightsStrong 
-Customer Retention: A 46% Repeat Rate indicates high customer satisfaction and successful retention strategies.
-High Average Order Value (AOV): An AOV of $562.6 suggests the sale of higher-priced items or successful upselling/cross-selling efforts.
-Geographic Concentration: Sales are highly concentrated in specific North American cities, pointing to successful regional marketing or strong brand presence in those areas.
+## 📌 Project Overview
 
-##🛠️ Technologies Used
-Data Source:Shopify Sales,Kaggle 
-DataTool: Power BI 
-Focus: Sales Analytics, Customer Segmentation, Funnel Reporting
+The **Shopify Sales & Customer Funnel Report** provides a 360° view of e-commerce performance by combining transactional, customer, and geographic data into a single analytical dashboard.
+
+**Key focus areas:**
+- Sales performance tracking
+- Customer purchase behavior
+- Retention & lifetime value analysis
+- Regional sales distribution
+- Payment gateway & product-level insights
+
+---
+
+## 📊 Key Metrics & KPIs
+
+### 🔹 Transaction Performance
+- **Net Sales:** $41,80,874  
+- **Total Quantity Sold:** 7,534  
+- **Average Order Value (AOV):** $562.6  
+
+### 🔹 Customer Purchase Behavior
+- **Total Customers:** 4,431  
+- **Single Order Customers:** 2,392  
+- **Repeat Customers:** 2,039  
+
+### 🔹 Retention & Value KPIs
+- **Customer Lifetime Value (LTV):** $943.6  
+- **Repeat Purchase Rate:** 46%  
+- **Purchase Frequency:** 1.68  
+
+---
+
+## 📈 Dashboard Insights
+
+### 1️⃣ Sales Trend Analysis
+- Net sales trend over time to identify peak and low-performing periods
+- Hourly distribution of sales volume
+
+### 2️⃣ Regional Sales Performance
+- Net sales by **Province & City**
+- Interactive **US map visualization**
+- City-level ranking based on revenue contribution
+
+### 3️⃣ Payment Gateway Analysis
+- Net sales split by:
+  - Shopify Payments
+  - PayPal
+  - Gift Cards
+  - Amazon Payments
+  - Manual Payments
+
+### 4️⃣ Product Performance
+- Net sales by **Product Type**
+- Identification of top-selling and low-performing categories
+
+---
+
+## 🛠️ Tools & Technologies
+
+- **Power BI Desktop**
+- **Shopify Sales Dataset**
+- **DAX Measures**
+
+---
+
+## Thank You!!!
+
+
+
